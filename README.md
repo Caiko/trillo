@@ -56,9 +56,9 @@ scss-flexbox-project/
    ```bash
    npm install
    ```
-4. **Compile SCSS to CSS:**
+4. **Fire it up:**
    ```bash
-   sass sass/main.scss css/style.css --watch
+   npm start
    ```
 5. **Open `index.html` in your browser** to see the layout.
 
