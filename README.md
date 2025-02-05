@@ -41,7 +41,7 @@ scss-flexbox-project/
 ```
 
 ### Preview
-![Project Screenshot](https://github.com/user-attachments/assets/06e83df0-d480-46fc-8370-3f2ba57c5708)
+![Project Screenshot](https://github.com/user-attachments/assets/268ea516-7c63-4bf1-a8d8-8ae9dc1b5169)
 
 ### How to Run the Project
 1. **Clone the repository:**
