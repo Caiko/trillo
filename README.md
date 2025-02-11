@@ -9,7 +9,7 @@ This project is a responsive web layout made using **SCSS** and **Flexbox**. The
 - **Modular SCSS Architecture**: Organized using partials like `_base.scss`, `_components.scss`, and `_layout.scss` for better code management.
 - **Responsive Design**: Built with Flexbox to ensure the layout adapts seamlessly across different screen sizes.
 - **Reusable Components**: Designed with flexibility in mind, making it easy to extend or modify.
-- **Clean and Maintainable Code**: Utilizes SCSS variables, mixins, and nesting for efficient styling.
+- **Clean and Maintainable Code**: Utilizes SCSS variables, BEM (Block Element Modifier) methodology, mixins, and nesting for efficient styling.
 
 ### 💻 Technologies Used:
 
